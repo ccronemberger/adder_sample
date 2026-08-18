@@ -1,4 +1,4 @@
-module github.com/ccronemberger/adder_sample
+module github.com/ccronemberger/adder_sample/v2
 
 go 1.26.6
 
